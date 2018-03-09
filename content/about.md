@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-03-09T17:07:40Z
-draft: true
+draft: false
 ---
 
 my name is Hugo Mendes and I'm a full-stack software engineer curently working as a freelancer
