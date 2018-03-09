@@ -28,12 +28,6 @@ weight                 = -110
 identifier             = "about"
 url                    = "/about/"
 
-[[menu.main]]
-name                   = "Code"
-weight                 = -100
-identifier             = "code"
-url                    = "/code/"
-
 [params]
 include_rss            = true                          # include RSS <link> tag in <head> and show RSS icon
 latestpostscount       = 5                             # how many posts to display on the home page
