@@ -13,6 +13,7 @@ pygmentsuseclasses  = true
 pluralizelisttitles = false
 #googleAnalytics     = "UA-123-45"
 
+
 [permalinks]
 blog  = "blog/:slug/"
 
